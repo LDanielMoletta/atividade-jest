@@ -1,0 +1,8 @@
+PASS src/subtract.spec.ts
+PASS src/sum.spec.ts
+
+Test Suites: 2 passed, 2 total
+Tests:       6 passed, 6 total
+Snapshots:   0 total
+Time:        1.149 s
+Ran all test suites matching src/sum.spec.ts|src/subtract.spec.ts.

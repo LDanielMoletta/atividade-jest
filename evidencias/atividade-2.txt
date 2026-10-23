@@ -1,0 +1,13 @@
+
+> atividade-jest@1.0.0 test
+> jest
+
+PASS src/sum.spec.ts
+  sum function
+    √ should add two numbers correctly (1 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.98 s, estimated 1 s
+Ran all test suites.

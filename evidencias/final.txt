@@ -1,0 +1,14 @@
+
+> atividade-jest@1.0.0 test
+> jest --colors=false
+
+PASS src/frete.spec.ts
+PASS src/subtract.spec.ts
+PASS src/sum.spec.ts
+PASS src/operacao.spec.ts
+
+Test Suites: 4 passed, 4 total
+Tests:       21 passed, 21 total
+Snapshots:   0 total
+Time:        2.041 s
+Ran all test suites.

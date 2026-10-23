@@ -1,0 +1,26 @@
+{
+  "name": "atividade-jest",
+  "version": "1.0.0",
+  "description": "Atividades praticas 1-3 do modulo Testes Automatizados com Jest (Node.js + TypeScript)",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "jest",
+    "ts-jest",
+    "typescript",
+    "testes"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.5.2",
+    "ts-jest": "^29.4.15",
+    "typescript": "^5.9.3"
+  }
+}
